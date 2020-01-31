@@ -8,8 +8,8 @@ html, body {
 
 body {
 	margin: 30px;
-	background: rgb(15, 15, 15);
-	color: rgb(134, 254, 25);
+	background: rgb(15, 15, 10);
+	color: rgb(134, 254, 20);
 	text-shadow: 0 0 rgba(134, 254, 25, 0.5);
 	font-family: 'Wallpoet', cursive;
 	text-align: center;
